@@ -18,3 +18,8 @@ This example demonstrates the **Builder Pattern** in a scenario where we need to
 
    ```bash
    javac *.java
+   ```
+   ```bash
+   java BuilderDemo
+   ```
+   
